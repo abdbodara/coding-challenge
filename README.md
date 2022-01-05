@@ -35,3 +35,5 @@ Run `nx g @nrwl/react:component my-component --project=my-app` to generate a new
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+Send me an e-mail: richard@agreeto.app
