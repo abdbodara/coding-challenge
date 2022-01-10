@@ -1,0 +1,20 @@
+.sidebar_wrap {
+    width: 280px;
+    position: fixed;
+    overflow-x: hidden;
+    background-color: #fafafa;
+    transition: all .4s;
+}
+.closed .sidebar_wrap {
+    width: 0;
+}
+.contentbar_wrap {
+    margin-left: 280px;
+    transition: all .4s;
+}
+.closed .contentbar_wrap {
+    margin-left: 0;
+}
+.info {
+    line-height: 11px
+}
